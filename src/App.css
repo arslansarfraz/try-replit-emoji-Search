@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+main ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+}
+.center{
+  text-align: center;
+}
+input{
+  padding: 5px;
+    font-family: inherit;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
